@@ -56,8 +56,6 @@ This repository contains all the projects, exercises, and notes I complete while
 | Day 80 | 📊 Data Analysis Project |
 | Day 100 | 🚀 Final Capstone Project |
 
-*(I will update this daily as I progress)*
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -71,27 +69,12 @@ This repository contains all the projects, exercises, and notes I complete while
 
 ---
 
-## 📈 My Progress
-
-✔️ Day 1 - Completed  
-✔️ Day 2 - Completed  
-⬜ Day 3 - In Progress  
-
----
-
 ## 💡 Why I'm Doing This
 
 I am a **marketing student transitioning into tech**, aiming to:
 - Build strong coding skills
 - Create real-world projects
 - Prepare for a tech startup / SaaS product
-
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: *(Add your link here)*
-- GitHub: *(Your profile link)*
 
 ---
 
