@@ -3,7 +3,7 @@
 Welcome to my **100 Days of Code – Python Bootcamp** journey!  
 This repository contains all the projects, exercises, and notes I complete while learning Python step-by-step.
 
----
+
 
 ## 📌 About This Challenge
 
