@@ -1,9 +1,9 @@
 # Pixela
 import requests
 
-TOKEN = "moodyBLUES"
-USERNAME = "zeus243"
-GRAPH_ID = "graph1"
+TOKEN = "TOKEN_NAME"
+USERNAME = "ID_USERNAME"
+GRAPH_ID = "GRAPH"
 
 pixela_endpoint = "https://pixe.la/v1/users"
 
