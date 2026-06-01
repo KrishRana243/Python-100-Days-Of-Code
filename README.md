@@ -1,10 +1,15 @@
 # 🐍 Python 100 Days of Code
 
-## 📖 About This Repository
+Welcome to my **100 Days of Code – Python Bootcamp** journey!  
+This repository contains all the projects, exercises, and notes I complete while learning Python step-by-step.
 
-Welcome to my **100 Days of Python Challenge** repository!
+---
 
-This repository documents my journey of learning Python through daily coding practice, projects, and problem-solving exercises. The challenge is designed to help me build a strong foundation in Python programming while creating real-world applications and improving my software development skills.
+## 📌 About This Repository
+
+- 💻 Duration: 100 Days
+- 🐍 Language: Python
+- 🎯 Goal: Become a proficient Python developer by building real-world projects
 
 ---
 
@@ -21,7 +26,7 @@ This repository documents my journey of learning Python through daily coding pra
 
 ## 🛠 Skills Covered
 
-### 🟢 Beginner Python
+### 📚 Beginner Python
 
 * Variables & Data Types
 * String Manipulation
@@ -33,7 +38,7 @@ This repository documents my journey of learning Python through daily coding pra
 * Error Handling
 * Debugging
 
-### 🔵 Intermediate Python
+### 🔰 Intermediate Python
 
 * Object-Oriented Programming (OOP)
 * File Handling
@@ -44,7 +49,7 @@ This repository documents my journey of learning Python through daily coding pra
 * Turtle Graphics
 * Game Development
 
-### 🟣 Intermediate+
+### ⚙️ Intermediate+
 
 * APIs & HTTP Requests
 * Web Scraping
@@ -54,7 +59,7 @@ This repository documents my journey of learning Python through daily coding pra
 * Authentication
 * Deployment
 
-### 🔴 Advanced Python
+### 🚀 Advanced Python
 
 * Pandas
 * NumPy
@@ -82,6 +87,26 @@ Throughout this challenge, I will build:
 * 🛒 Online Shop Website
 * 📊 Data Analysis Projects
 * 🤖 Machine Learning Projects
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- VS Code / PyCharm
+- Git & GitHub
+- Flask
+- Pandas, NumPy
+- Selenium
+
+---
+
+## 💡 Why I'm Doing This
+
+I am a **marketing student transitioning into tech**, aiming to:
+- Build strong coding skills
+- Create real-world projects
+- Prepare for a tech startup / SaaS product
 
 ---
 
