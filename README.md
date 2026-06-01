@@ -101,3 +101,5 @@ This challenge follows the curriculum of the **100 Days of Code: Complete Python
 
 ---
 
+> vidi vici veni
+
