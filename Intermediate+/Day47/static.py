@@ -2,8 +2,8 @@ from bs4 import BeautifulSoup
 import requests
 import smtplib
 
-MY_EMAIL = "krish7614.codes@gmail.com"
-MY_PASSWORD = "cbvf xoot udoy xqcf"
+MY_EMAIL = "YOUR EMAIL ID"
+MY_PASSWORD = "APP PASSWORD"
 
 # Practice
 url = "https://appbrewery.github.io/instant_pot/"
