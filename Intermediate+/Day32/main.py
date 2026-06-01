@@ -5,7 +5,7 @@ import random
 import smtplib
 
 MY_EMAIL = "YOUR EMAIL ID"
-MY_PASSWORD = "YOUR PASSWORD"
+MY_PASSWORD = "APP PASSWORD"
 
 today = datetime.now()
 today_tuple = (today.month, today.day)
