@@ -1,6 +1,6 @@
 import smtplib
-myEmail = "krish7614.codes@gmail.com"
-appPassword = "cbvf xoot udoy xqcf"
+myEmail = "YOUR EMAIL"
+appPassword = "YOUR PASSWORD"
 
 with smtplib.SMTP("smtp.gmail.com") as connection:         # location
     connection.starttls()                                  # makes connection secure
